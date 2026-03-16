@@ -1,0 +1,17 @@
+D:\PekarnyaPO\SkladApp\PraktikumISRPO1\PraktikumISRPO1\obj\Debug\PraktikumISRPO1.csproj.AssemblyReference.cache
+D:\PekarnyaPO\SkladApp\PraktikumISRPO1\PraktikumISRPO1\obj\Debug\TestApp.FormFinish.resources
+D:\PekarnyaPO\SkladApp\PraktikumISRPO1\PraktikumISRPO1\obj\Debug\TestApp.FormStart.resources
+D:\PekarnyaPO\SkladApp\PraktikumISRPO1\PraktikumISRPO1\obj\Debug\PraktikumISRPO1.Properties.Resources.resources
+D:\PekarnyaPO\SkladApp\PraktikumISRPO1\PraktikumISRPO1\obj\Debug\PraktikumISRPO1.csproj.GenerateResource.cache
+D:\PekarnyaPO\SkladApp\PraktikumISRPO1\PraktikumISRPO1\obj\Debug\PraktikumISRPO1.csproj.CoreCompileInputs.cache
+D:\PekarnyaPO\SkladApp\PraktikumISRPO1\PraktikumISRPO1\bin\Debug\PraktikumISRPO1.exe.config
+D:\PekarnyaPO\SkladApp\PraktikumISRPO1\PraktikumISRPO1\bin\Debug\PraktikumISRPO1.exe
+D:\PekarnyaPO\SkladApp\PraktikumISRPO1\PraktikumISRPO1\bin\Debug\PraktikumISRPO1.pdb
+D:\PekarnyaPO\SkladApp\PraktikumISRPO1\PraktikumISRPO1\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\PekarnyaPO\SkladApp\PraktikumISRPO1\PraktikumISRPO1\bin\Debug\System.Data.SqlClient.dll
+D:\PekarnyaPO\SkladApp\PraktikumISRPO1\PraktikumISRPO1\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\PekarnyaPO\SkladApp\PraktikumISRPO1\PraktikumISRPO1\bin\Debug\System.Data.SqlClient.xml
+D:\PekarnyaPO\SkladApp\PraktikumISRPO1\PraktikumISRPO1\obj\Debug\TestApp.FormQuestions.resources
+D:\PekarnyaPO\SkladApp\PraktikumISRPO1\PraktikumISRPO1\obj\Debug\Praktiku.30D5F500.Up2Date
+D:\PekarnyaPO\SkladApp\PraktikumISRPO1\PraktikumISRPO1\obj\Debug\PraktikumISRPO1.exe
+D:\PekarnyaPO\SkladApp\PraktikumISRPO1\PraktikumISRPO1\obj\Debug\PraktikumISRPO1.pdb
