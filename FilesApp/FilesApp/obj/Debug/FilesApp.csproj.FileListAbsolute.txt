@@ -1,0 +1,5 @@
+D:\PekarnyaPO\SkladApp\FilesApp\FilesApp\obj\Debug\FilesApp.csproj.AssemblyReference.cache
+D:\PekarnyaPO\SkladApp\FilesApp\FilesApp\obj\Debug\FilesApp.Properties.Resources.resources
+D:\PekarnyaPO\SkladApp\FilesApp\FilesApp\obj\Debug\FilesApp.SimbolsCount.resources
+D:\PekarnyaPO\SkladApp\FilesApp\FilesApp\obj\Debug\FilesApp.csproj.GenerateResource.cache
+D:\PekarnyaPO\SkladApp\FilesApp\FilesApp\obj\Debug\FilesApp.csproj.CoreCompileInputs.cache
