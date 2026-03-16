@@ -1,0 +1,13 @@
+D:\PekarnyaPO\SkladApp\LabaISRPO1\LabaISRPO1\bin\Debug\LabaISRPO1.exe.config
+D:\PekarnyaPO\SkladApp\LabaISRPO1\LabaISRPO1\bin\Debug\LabaISRPO1.exe
+D:\PekarnyaPO\SkladApp\LabaISRPO1\LabaISRPO1\bin\Debug\LabaISRPO1.pdb
+D:\PekarnyaPO\SkladApp\LabaISRPO1\LabaISRPO1\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\PekarnyaPO\SkladApp\LabaISRPO1\LabaISRPO1\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\PekarnyaPO\SkladApp\LabaISRPO1\LabaISRPO1\obj\Debug\LabaISRPO1.csproj.AssemblyReference.cache
+D:\PekarnyaPO\SkladApp\LabaISRPO1\LabaISRPO1\obj\Debug\BackpackApp.Form1.resources
+D:\PekarnyaPO\SkladApp\LabaISRPO1\LabaISRPO1\obj\Debug\LabaISRPO1.Properties.Resources.resources
+D:\PekarnyaPO\SkladApp\LabaISRPO1\LabaISRPO1\obj\Debug\LabaISRPO1.csproj.GenerateResource.cache
+D:\PekarnyaPO\SkladApp\LabaISRPO1\LabaISRPO1\obj\Debug\LabaISRPO1.csproj.CoreCompileInputs.cache
+D:\PekarnyaPO\SkladApp\LabaISRPO1\LabaISRPO1\obj\Debug\LabaISRPO1.csproj.Up2Date
+D:\PekarnyaPO\SkladApp\LabaISRPO1\LabaISRPO1\obj\Debug\LabaISRPO1.exe
+D:\PekarnyaPO\SkladApp\LabaISRPO1\LabaISRPO1\obj\Debug\LabaISRPO1.pdb
